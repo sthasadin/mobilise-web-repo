@@ -16,7 +16,6 @@ function App() {
           rel="noopener noreferrer"
         >
           Welcome to Mobilise Inc. 
-          
         </a>
       </header>
     </div>
